@@ -1,0 +1,16 @@
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.exe
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.deps.json
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.runtimeconfig.json
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.dll
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\ref\MethodOverloadingPractice.dll
+C:\Users\antho\repos\MethodOverloadingPractice\bin\Debug\net5.0\MethodOverloadingPractice.pdb
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.csproj.AssemblyReference.cache
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.AssemblyInfo.cs
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.dll
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\ref\MethodOverloadingPractice.dll
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.pdb
+C:\Users\antho\repos\MethodOverloadingPractice\obj\Debug\net5.0\MethodOverloadingPractice.genruntimeconfig.cache
